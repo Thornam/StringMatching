@@ -4,4 +4,4 @@ The code in this repository is created as a part of the research paper *"Researc
 
 Therefore, we had to create a system that uses the company names in each database to match company information. This was created by using **N-grams**, **TF-IDF vectorization**, and **Cosine similarity** to get an effective matching of the name strings with a very low percentage of mismatches. 
 
-For an in-depth explanation of the method used in the Python code, the data section from the paper, which is added to this repository, can be read. 
+For an in-depth explanation of the method used in the Python code, one can read the data section from the paper which is added to this repository. 
